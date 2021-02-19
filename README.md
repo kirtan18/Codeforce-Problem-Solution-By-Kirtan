@@ -1,5 +1,5 @@
 # Codeforce-Problem-Solution-By-Kirtan
-https://assets.codeforces.com/users/kguseva/comments/cf.png
+
  Codeforce solution
 # Contact
 Gmail : kirtanprajapati6602@gmail.com
