@@ -3,11 +3,11 @@
 
 # Contact
 
-Gmail : kirtanprajapati6602@gmail.com
+Gmail     : kirtanprajapati6602@gmail.com
 
-Linkedin : https://www.linkedin.com/in/kirtan-prajapati/
+Linkedin  : https://www.linkedin.com/in/kirtan-prajapati/
 
-codechef : https://www.codechef.com/users/kirtan_p 
+codechef  : https://www.codechef.com/users/kirtan_p 
 
 Codeforce : https://codeforces.com/profile/kirtan_18
 
