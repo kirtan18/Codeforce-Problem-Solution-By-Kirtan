@@ -1,5 +1,7 @@
 https://codeforces.com/problemset/problem/157/B
 
+r1^2 - r2^2 + r3^2
+radius = pi * (R ^ 2)
 
 void solve(){
    int n;
